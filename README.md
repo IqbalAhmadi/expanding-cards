@@ -13,3 +13,10 @@ To use this project, simply open the index.html file in your web browser. Click 
 ## Customization
 
 You can customize this project by editing the HTML, CSS, and JavaScript files to change the content, styling, or functionality. The HTML file contains the basic structure of the cards, while the CSS file styles them. The JavaScript file contains the code for expanding the cards on click.
+
+## Screenshots
+
+The following images shows the website's current state
+
+![active image 1](./images/img-1.png)
+![active image 1](./images/img-2.png)
